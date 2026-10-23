@@ -1,4 +1,4 @@
-# QuizMaster — Web Fundamentals Quiz
+# Quiz_App — Web Fundamentals Quiz
 
 A responsive, browser-based web fundamentals quiz built with semantic HTML, custom CSS, Bootstrap 5, and native JavaScript modules. It presents five randomized questions per round, provides instant answer feedback, and summarizes results when the round ends.
 
