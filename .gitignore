@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Environment files and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials/
+secrets/
+
+# Generated files
+dist/
+build/
+coverage/
+*.log
+npm-debug.log*
+
+# Operating system files
+.DS_Store
+Thumbs.db
